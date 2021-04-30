@@ -1,1 +1,2 @@
 # CeneoScraper
+# Stage1
